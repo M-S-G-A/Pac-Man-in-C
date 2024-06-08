@@ -14,6 +14,7 @@ The Player can:
     Press "N" during the game to change the background music.
     Press "M" to go back to main menu.
 
+For sure, this game can still be ameliorated. Hope you'll have fun.
+
 PS: I do not own any of the songs or sfx available in the game.
 
-For sure, this game can still be ameliorated. Hope you'll have fun.
